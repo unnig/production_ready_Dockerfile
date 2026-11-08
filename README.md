@@ -142,6 +142,7 @@ The article explains the architecture, optimization techniques, and production b
 
 🤝 Connect With Me
 Unni Pushpamgadan
+www.linkedin.com/in/unni-p-733990227
 
 IT Infrastructure | AWS | Linux | Docker | Terraform | Python | DevOps
 
